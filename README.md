@@ -2,6 +2,10 @@
 
 **Picasso** is a modern, responsive, and visually engaging HTML portfolio template designed for photographers and creatives. Built with clean code and minimal dependencies, it offers a smooth user experience with elegant animations and well-organized sections.
 
+### Demo Screeshots
+
+![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 ---
 
 ## 🌐 Live Demo
@@ -76,8 +80,5 @@ Fully responsive on all screen sizes:
 👤 Author
 Sunnat Khudoykulov
 Frontend Developer 
-📧 sunnat.kh2007@example.com
 
-### Demo Screeshots
-
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Vercel LIVE PROJECT ----> https://picassso.vercel.app/
