@@ -9,8 +9,7 @@
 ---
 
 ## 🌐 Live Demo
-
-> _Coming Soon or add your deployed URL here_
+Vercel LIVE PROJECT ----> https://picassso.vercel.app/
 
 ---
 
@@ -80,5 +79,3 @@ Fully responsive on all screen sizes:
 👤 Author
 Sunnat Khudoykulov
 Frontend Developer 
-
-Vercel LIVE PROJECT ----> https://picassso.vercel.app/
